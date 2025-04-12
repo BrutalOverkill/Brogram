@@ -1,5 +1,7 @@
 # Brogram - 30-Day Push/Pull/Leg Workout Planner 💪
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b28073e-51f0-49b8-a8db-818515b94ad3/deploy-status)](https://app.netlify.com/sites/brogram-workouts/deploys)
+
 **Live App:** [https://brogram-workouts.netlify.app](https://brogram-workouts.netlify.app)  
 *(Note: Workouts unlock progressively - no cheating, bro!)*
 
