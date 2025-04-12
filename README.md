@@ -3,9 +3,6 @@
 **Live App:** [https://brogram-workouts.netlify.app](https://brogram-workouts.netlify.app)  
 *(Note: Workouts unlock progressively - no cheating, bro!)*
 
-<img src="public/screenshot.png" alt="Brogram workout interface" width="600">  
-*(Replace with your actual screenshot file)*
-
 ## 🏋️‍♂️ The Gains Promise
 > "30 days. No skipping. Become the gymbro you were meant to be."
 
